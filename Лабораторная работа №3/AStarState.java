@@ -52,7 +52,7 @@ public class AStarState
 
         return min;
     }
-
+  
     /**
      * This method adds a waypoint to (or potentially updates a waypoint already
      * in) the "open waypoints" collection.  If there is not already an open
