@@ -2,7 +2,7 @@ import java.awt.*;
 import javax.swing.*;
 import javax.swing.border.*;
 
-
+ 
 /**
  * This class is a custom Swing component for representing a single map cell in
  * a 2D map.  The cell has several different kinds of state, but the most basic
