@@ -1,4 +1,3 @@
-
 public class Map2D {
     /** The width of the map. **/
     private int width;
