@@ -232,7 +232,6 @@ public class AStarApp {
         }
     }
 
-
     /**
      * Entry-point for the application.  No command-line arguments are
      * recognized at this time.
