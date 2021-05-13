@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.*; 
 
 /**
  * This class represents a specific location in a 2D map.  Coordinates are
